@@ -4,7 +4,16 @@
 [![nguyenthille's Facebook Profile](images/facebook.png)](https://www.facebook.com/Mio1710)
 [![nguyenthille's Credly Profile](images/credly.png)](https://www.credly.com/users/nguyen-thi-le-mio1710)
 
-Here are some ideas to get you started:
+</br>
+
+## Glad to see you here!
+
+<img align="right" alt="Learning" src="images/learning.gif" width="320px" />
+
+Love learning, derive knowledge to something valueable <3
+
+
+**Friendly**
 
 - 🔭 I’m currently working as a software developer
 - 🌱 I’m currently learning AWS
