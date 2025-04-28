@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nguyen Thi Le 👋
 
 
-**Mio1710/Mio1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
