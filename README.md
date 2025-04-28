@@ -1,6 +1,8 @@
 ## Hi there, I'm Nguyen Thi Le 👋
 
-
+[![nguyenthille's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/nguyen-thi-le/)
+[![nguyenthille's Facebook Profile](images/facebook.png)](https://www.facebook.com/Mio1710)
+[![nguyenthille's Credly Profile](images/credly.png)](https://www.credly.com/users/nguyen-thi-le-mio1710)
 
 Here are some ideas to get you started:
 
