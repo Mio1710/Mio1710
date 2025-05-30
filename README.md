@@ -22,4 +22,5 @@ Love learning, derive knowledge to something valueable <3
 - 📫 How to reach me: nguyenthile.work@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You don't know anything about me
+- 🌐 Website: https://nguyenthile.netlify.app
 
