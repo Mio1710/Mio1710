@@ -10,7 +10,7 @@
 
 <img align="right" alt="Learning" src="images/learning.gif" width="320px" />
 
-Love learning, derive knowledge to something valueable <3
+Love learning, deriving knowledge to something valueable <3
 
 
 **Friendly**
