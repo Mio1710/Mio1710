@@ -9,8 +9,7 @@
 
 <img align="right" alt="Learning" src="images/learning.gif" width="320px" />
 
-Love learning, deriving knowledge to something valueable <3
-Understanding to do, not FOMO!
+Love learning, deriving knowledge to something valueable <3. Understanding to do, not FOMO!
 
 **Friendly**
 
