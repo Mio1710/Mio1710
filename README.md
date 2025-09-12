@@ -5,13 +5,12 @@
 [![nguyenthille's Credly Profile](images/credly.png)](https://www.credly.com/users/nguyen-thi-le-mio1710)
 
 </br>
-
 ## Glad to see you here!
 
 <img align="right" alt="Learning" src="images/learning.gif" width="320px" />
 
 Love learning, deriving knowledge to something valueable <3
-
+Understanding to do, not FOMO!
 
 **Friendly**
 
