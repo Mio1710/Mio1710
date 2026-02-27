@@ -3,8 +3,8 @@
 [![nguyenthille's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/nguyen-thi-le/)
 [![nguyenthille's Facebook Profile](images/facebook.png)](https://www.facebook.com/Mio1710)
 [![nguyenthille's Credly Profile](images/credly.png)](https://www.credly.com/users/nguyen-thi-le-mio1710)
-
 </br>
+
 ## Glad to see you here!
 
 <img align="right" alt="Learning" src="images/learning.gif" width="320px" />
